@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\jws31\source\repos\자응실 10주차\자응실 10주차\소스.c(27,3): warning C4033: 'de'은(는) 값을 반환해야 합니다.
+C:\Users\jws31\source\repos\자응실 10주차\자응실 10주차\소스.c(33,8): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\jws31\source\repos\자응실 10주차\자응실 10주차\소스.c(41): warning C4715: 'de': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  자응실 10주차.vcxproj -> C:\Users\jws31\source\repos\자응실 10주차\x64\Debug\자응실 10주차.exe

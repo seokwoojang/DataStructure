@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "자응실5주차(양방향 연결리스트)", "자응실5주차(양방향 연결리스트)\자응실5주차(양방향 연결리스트).vcxproj", "{ECAAEF27-68AA-4A0D-A9D1-E51A7DD70ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAAEF27-68AA-4A0D-A9D1-E51A7DD70ECD}.Debug|x64.ActiveCfg = Debug|x64
+		{ECAAEF27-68AA-4A0D-A9D1-E51A7DD70ECD}.Debug|x64.Build.0 = Debug|x64
+		{ECAAEF27-68AA-4A0D-A9D1-E51A7DD70ECD}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECAAEF27-68AA-4A0D-A9D1-E51A7DD70ECD}.Debug|x86.Build.0 = Debug|Win32
+		{ECAAEF27-68AA-4A0D-A9D1-E51A7DD70ECD}.Release|x64.ActiveCfg = Release|x64
+		{ECAAEF27-68AA-4A0D-A9D1-E51A7DD70ECD}.Release|x64.Build.0 = Release|x64
+		{ECAAEF27-68AA-4A0D-A9D1-E51A7DD70ECD}.Release|x86.ActiveCfg = Release|Win32
+		{ECAAEF27-68AA-4A0D-A9D1-E51A7DD70ECD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1E37C2-28B3-43DA-9C69-314EAA716C98}
+	EndGlobalSection
+EndGlobal
